@@ -27,8 +27,6 @@ Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://raw.githubusercontent.com/YOHANES1212/YOHANES1212/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <picture>
